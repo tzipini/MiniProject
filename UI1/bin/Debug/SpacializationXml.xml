@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spacializations>
+  <Specialization>
+    <Key>10000000</Key>
+    <SpecialtyName>Syber</SpecialtyName>
+    <Speciality>s</Speciality>
+    <MinRate>45</MinRate>
+    <MaxRate>85</MaxRate>
+  </Specialization>
+  <Specialization>
+    <Key>10000001</Key>
+    <SpecialtyName>Networks</SpecialtyName>
+    <Speciality>afal</Speciality>
+    <MinRate>78</MinRate>
+    <MaxRate>92</MaxRate>
+  </Specialization>
+  <Specialization>
+    <Key>10000002</Key>
+    <SpecialtyName>Networks</SpecialtyName>
+    <Speciality>sfjl</Speciality>
+    <MinRate>50</MinRate>
+    <MaxRate>90</MaxRate>
+  </Specialization>
+  <Specialization>
+    <Key>10000003</Key>
+    <SpecialtyName>Syber</SpecialtyName>
+    <Speciality>syb</Speciality>
+    <MinRate>25</MinRate>
+    <MaxRate>65</MaxRate>
+  </Specialization>
+</Spacializations>
